@@ -1,0 +1,12 @@
+Admin: RESTadmin
+Email: restadmin@littlelemon.com
+Password: littlelemon777
+
+Manager: manager1
+Password: managerlemon777
+
+Delivery: delivery1
+Password: deliverylemon777
+
+Customer: customer1
+Password: customerlemon777
